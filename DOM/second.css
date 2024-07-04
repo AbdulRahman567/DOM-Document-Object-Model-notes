@@ -1,0 +1,45 @@
+/* h1 {
+    color: rgb(22, 44, 167);
+    background-color: chocolate;
+}
+#heading2 {
+    color: coral;
+    background-color: darkgoldenrod;
+
+}
+body{
+    background-color: pink;
+}
+button{
+    color: blueviolet;
+    
+}
+.color{
+    color: red;
+} */
+
+
+/* practice question */
+
+/* .box{
+
+    height: 150px;
+    width: 90px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: aqua;
+    margin: 5px;
+} */
+
+.para{
+    text-align: center;
+    color: brown ;
+    font-size:large ;
+    border: 2px solid blue;
+    background-color: aquamarine;
+    text-decoration: double;
+}
+.newClass{
+    background-color: cornflowerblue;
+    color: black;
+}
